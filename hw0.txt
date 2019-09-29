@@ -1,3 +1,15 @@
 # Description of your program (part 7)
+1. Open the document up by calling the file name
+2. assign a name to 0 and this will be the number returned after counting the number of words in a file
+3. Create a loop to each each line and use .split() to create a list of words from that line
+4. Use the length (len()) function to count the number of items in the list created
+5. Add that length number to the assigned name
+6. Return & print the assigned name that has been the counter
 
 # Reflection on writing your program (part 8)
+It was easier than I thought because I took CSE 160, I did need a quick refresher on the different functions
+I learned in that class by looking at the notes I took. I found the split function in my notes and remembered that
+it would be useful to break down a file with words into a list, then all I had to do was find the length of
+the list. I know that the description I gave would not be that simple because I didn't account for different characters
+that are not words. It is satisfying writing an english translation of what my code would do because I totally
+forgot structure.
